@@ -1,0 +1,5 @@
+--> As this being a classification problem we tried to use the best ML model- XGBoost
+-->Firstly we dealt with the categorical datas- we used the XGBoost tree_method- GPU histogram for the purpose
+-->We also defined a method for data cleaning and preprocessing for missing vales and '|' marks in 'KEYWORD' column.
+-->The model gave 99% accuracy. 
+-->Then we used onehot encoding to encode the categories in Taxonomy for prediction.
