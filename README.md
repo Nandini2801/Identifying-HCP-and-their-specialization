@@ -30,7 +30,7 @@ To use this repository and reproduce our results, follow the instructions in the
 ## Team Members
 
 - [Nandini Dutta](https://github.com/Nandini2801)
-- [Pradeep Kumar Chaurasiya]
+- Pradeep Kumar Chaurasiya
 
 ## Acknowledgments
 
